@@ -55,10 +55,9 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KalinduWijerathna)](https://github.com/KalinduWijerathna/github-readme-stats)
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KalinduWijerathna)](https://github.com/KalinduWijerathna/github-readme-stats)
-
   <img src="https://streak-stats.demolab.com?user=KalinduWijerathna&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
