@@ -1,3 +1,7 @@
+<h1 align="center">Ayubowan 🙏🤩</h1>
+
+###
+
 <div align="center">
   <img height="150" src="./happy_coding.gif"  />
 </div>
@@ -18,9 +22,6 @@
 
 ###
 
-<h1 align="center">Ayubowan 🙏🤩</h1>
-
-###
 
 <p align="center">I'm Kalindu Denuwan Wijerathna👋 <br><b>--- Networking Enthusiast🕸️ & 👨‍💻Passionate DevOps Developer ---</b><br> 📚 I'm currently studying as an Undergraduate at Department of Computer engineering, Faculty of Engineering, UOP<br>- 🎉 In my free time I Sing & Play a bit of fingerstyle guitar🎸</p>
 
@@ -57,7 +58,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KalinduWijerathna&hide=vue,html&theme=dracula" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KalinduWijerathna&hide=vue,html&theme=dracula&langs_count=10" />
   <img src="https://streak-stats.demolab.com?user=KalinduWijerathna&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
