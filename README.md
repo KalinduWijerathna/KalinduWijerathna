@@ -23,7 +23,7 @@
 ###
 
 
-<p align="center">I'm Kalindu Denuwan Wijerathna👋 <br><b>--- Networking & DevOps Enthusiast 🕸️ & 👨‍💻Passionate Full Stack Developer ---</b><br> 📚 I'm currently studying as an Undergraduate at Department of Computer engineering, Faculty of Engineering, UOP<br>- 🎉 In my free time I Sing & Play a bit of fingerstyle guitar🎸</p>
+<p align="center">I'm Kalindu Denuwan Wijerathna👋 <br><b>--- 👨‍💻Passionate Full Stack Developer and 🕸️ Networking & DevOps Enthusiast  ---</b><br> 📚 I'm currently studying as an Undergraduate at Department of Computer engineering, Faculty of Engineering, UOP<br>- 🎉 In my free time I Sing & Play a bit of fingerstyle guitar🎸</p>
 
 ###
 <!---
